@@ -1,0 +1,15 @@
+---
+layout: compress
+---
+
+
+<h2> Display Gender (Female or Male) Information </h2>
+{% assign projects = site.data.projects %}
+{% assign projects = projects | sort:"Gender" %}
+
+{% for project in projects %}
+<ul>
+<li><strong>{{ project.Gender }} </strong>
+</ul>
+
+{% endfor %}

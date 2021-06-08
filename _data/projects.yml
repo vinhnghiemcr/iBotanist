@@ -1,0 +1,11 @@
+- name: Plants' conditions
+  image: https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg
+  description: History of plants' conditions.  
+- name: Plants' watering schedules
+  link:
+  image: https://cdn.pixabay.com/photo/2015/01/09/11/08/startup-594090_960_720.jpg
+  description: History of plants's watering schedules
+- name: Make a request
+  link:
+  image: https://cdn.pixabay.com/photo/2016/06/25/12/55/art-1478831_960_720.jpg
+  description: Request changes of schedule

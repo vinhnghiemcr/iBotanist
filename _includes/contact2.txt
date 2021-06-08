@@ -1,0 +1,8 @@
+<form name="gform" id="gform" enctype="text/plain" action="https://docs.google.com/forms/d/1SIt63x0voDbSBygGXPkqsdfplTppch5UdeyMB9NJS1k/formResponse?" target="hidden_iframe" onsubmit="submitted=true;">
+  Female or Male:<br>
+  <input type="text" name="entry.1001843914" id="entry.1001843914"><br>
+  <input type="submit" value="Submit">
+</form>
+<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {}"></iframe>
+
+
